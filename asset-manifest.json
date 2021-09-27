@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/roble-blog/static/css/main.a617e044.chunk.css",
+    "main.js": "/roble-blog/static/js/main.ca883649.chunk.js",
+    "main.js.map": "/roble-blog/static/js/main.ca883649.chunk.js.map",
+    "runtime-main.js": "/roble-blog/static/js/runtime-main.d1a1d901.js",
+    "runtime-main.js.map": "/roble-blog/static/js/runtime-main.d1a1d901.js.map",
+    "static/js/2.9a5bee25.chunk.js": "/roble-blog/static/js/2.9a5bee25.chunk.js",
+    "static/js/2.9a5bee25.chunk.js.map": "/roble-blog/static/js/2.9a5bee25.chunk.js.map",
+    "static/js/3.e7fb0ccc.chunk.js": "/roble-blog/static/js/3.e7fb0ccc.chunk.js",
+    "static/js/3.e7fb0ccc.chunk.js.map": "/roble-blog/static/js/3.e7fb0ccc.chunk.js.map",
+    "index.html": "/roble-blog/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/roble-blog/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.9a5bee25.chunk.js.LICENSE.txt": "/roble-blog/static/js/2.9a5bee25.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/roble-blog/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1a1d901.js",
+    "static/js/2.9a5bee25.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.ca883649.chunk.js"
+  ]
+}
