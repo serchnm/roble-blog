@@ -1,0 +1,14 @@
+.menu-item-option {
+    margin: 0 auto;
+}
+.menu-item-option a {
+    font-size: 13px;
+}
+.navbar-brand {
+    margin-right: 0;
+}
+@media screen and (min-width: 992px) {
+    .menu-option-alignement {
+        margin-left: -80px;
+    }
+}
