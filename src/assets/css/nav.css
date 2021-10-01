@@ -1,8 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 .menu-item-option {
     margin: 0 auto;
 }
 .menu-item-option a {
     font-size: 13px;
+    font-family: 'Open Sans';
 }
 .navbar-brand {
     margin-right: 0;
@@ -11,4 +13,16 @@
     .menu-option-alignement {
         margin-left: -80px;
     }
+}
+
+.homePage {
+    height: 360px;
+    background: #E8E7E8 0% 0% no-repeat padding-box;
+    font-family: 'Open Sans';
+}
+.homePage p {
+    font-size: 24px;
+    display: inline-block;
+line-height: normal;
+vertical-align: middle;
 }
